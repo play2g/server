@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "ws": "^8.16.0"
-  }
+  },
+  "name": "play2g-server",
+  "version": "1.0.0",
+  "description": "Server for the play2g project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/play2g/server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/play2g/server/issues"
+  },
+  "homepage": "https://github.com/play2g/server#readme"
 }
